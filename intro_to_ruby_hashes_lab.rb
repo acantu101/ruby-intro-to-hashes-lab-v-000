@@ -53,7 +53,6 @@ def monopoly_with_third_tier
 					{
 
 					}
-oad
 			} #rent_in_dollars
 		} #railroads #monopoly
 }
